@@ -38,7 +38,17 @@ Before running it locally on Jupyter, please ensure the installation of followin
 * JSON
 * GTTS (Google Text to Speech)
 
+## Credits
 
+[Image Captioning with Visual Attention](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb) by [MarkDaoust](https://github.com/MarkDaoust)
+
+[Google TTS](https://github.com/zlargon/google-tts) by [zlargon](https://github.com/zlargon/google-tts/commits?author=zlargon)
+
+## Sources
+
+* [What is an encoder decoder model](https://towardsdatascience.com/what-is-an-encoder-decoder-model-86b3d57c5e1a)
+* [Inception V3 Deep Convolutional Architecture](https://software.intel.com/content/www/us/en/develop/articles/inception-v3-deep-convolutional-architecture-for-classifying-acute-myeloidlymphoblastic.html)
+* [Show Attend and Tell : Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
 ## Contribute
 
 Please feel free to contribute to this project to better achieve the objective. 
