@@ -1,7 +1,7 @@
 
 # Scene Interpretation
 
-This project is a part of a Visual Intelligence workshop conducted by CEVI LAB at KLE Technological University
+This project is a part of Visual Intelligence workshop conducted by CEVI LAB at KLE Technological University
 
 ## Objective
 This project aims at providing aid to visually challenged community by interpreting scenes and captioning images. And additionally using the captions to generate audio for visual aid. This project uses [MS COCO dataset](http://cocodataset.org/#home) for training and testing. 
